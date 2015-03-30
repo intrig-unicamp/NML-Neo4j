@@ -1,0 +1,13 @@
+Primitiva	1º Valor	Média	Desvio Padrão	99 Percentil	1 Percentil
+countInDegree	8.040,00	642,63	34,00	731,96	613,99
+countOutDegree	6.530,00	317,23	38,33	350,39	299,96
+insert	1.214,00	9,73	3,65	21,01	5,99
+countNeighbors	1.170,00	51,43	306,30	276,26	9,99
+doesRouteExist	4.956,00	59,42	70,88	441,62	37,00
+computeSSSP	4.186,00	10,64	18,45	17,76	6,00
+computeKSSSP	1.380,00	65,11	335,30	249,57	13,98
+setEdgeWeight	421,00	218,13	57,77	448,87	180,00
+getEdgeWeight	32,00	11,08	2,60	17,12	8,99
+computeMST	4.467,00	7,84	2,12	14,02	5,00
+delete	7.489,00	1.284,52	44,83	1.510,46	1.238,00
+computeAPSP	1.004,00	5,61	1,82	11,03	4,00
