@@ -1,0 +1,1340 @@
+
+countInDegree Node Time
+countInDegree 19251 8040
+countInDegree 10083 926
+countInDegree 28239 730
+countInDegree 25758 693
+countInDegree 5217 687
+countInDegree 13773 670
+countInDegree 18015 660
+countInDegree 24159 668
+countInDegree 23586 675
+countInDegree 13749 663
+countInDegree 9558 653
+countInDegree 15522 642
+countInDegree 25194 657
+countInDegree 6990 654
+countInDegree 29202 652
+countInDegree 2565 647
+countInDegree 18663 663
+countInDegree 5553 635
+countInDegree 9357 648
+countInDegree 17529 641
+countInDegree 1401 653
+countInDegree 1146 639
+countInDegree 9924 662
+countInDegree 18651 636
+countInDegree 24906 653
+countInDegree 5691 637
+countInDegree 11082 659
+countInDegree 24309 641
+countInDegree 24297 636
+countInDegree 29919 637
+countInDegree 6168 630
+countInDegree 18957 643
+countInDegree 5337 632
+countInDegree 19767 644
+countInDegree 8157 630
+countInDegree 16767 637
+countInDegree 26034 638
+countInDegree 19383 644
+countInDegree 26289 638
+countInDegree 234 645
+countInDegree 22089 614
+countInDegree 9324 646
+countInDegree 24105 635
+countInDegree 2067 642
+countInDegree 29583 637
+countInDegree 9750 631
+countInDegree 11724 632
+countInDegree 3534 648
+countInDegree 20181 630
+countInDegree 25038 637
+countInDegree 26769 626
+countInDegree 3078 650
+countInDegree 23784 634
+countInDegree 26064 635
+countInDegree 24111 616
+countInDegree 14325 637
+countInDegree 16248 617
+countInDegree 22452 645
+countInDegree 18306 627
+countInDegree 18606 632
+countInDegree 25032 639
+countInDegree 17823 631
+countInDegree 24138 634
+countInDegree 28017 636
+countInDegree 28746 629
+countInDegree 7893 636
+countInDegree 27471 645
+countInDegree 20637 633
+countInDegree 18090 623
+countInDegree 23991 639
+countInDegree 21648 626
+countInDegree 11886 636
+countInDegree 1347 629
+countInDegree 12738 637
+countInDegree 1851 619
+countInDegree 207 619
+countInDegree 23907 633
+countInDegree 26073 620
+countInDegree 19902 613
+countInDegree 3576 640
+countInDegree 18270 620
+countInDegree 17301 626
+countInDegree 8646 633
+countInDegree 21312 615
+countInDegree 10353 635
+countInDegree 6303 635
+countInDegree 282 628
+countInDegree 27918 619
+countInDegree 21942 631
+countInDegree 9423 642
+countInDegree 0 652
+countInDegree 13791 620
+countInDegree 14649 642
+countInDegree 5808 615
+countInDegree 28452 622
+countInDegree 1836 694
+countInDegree 2499 625
+countInDegree 24378 649
+countInDegree 28047 621
+countInDegree 19995 633
+countInDegree 10425 620
+
+countOutDegree Node Time
+countOutDegree 22233 6530
+countOutDegree 20340 686
+countOutDegree 4353 347
+countOutDegree 10179 316
+countOutDegree 906 331
+countOutDegree 25395 328
+countOutDegree 3378 314
+countOutDegree 25755 329
+countOutDegree 26451 323
+countOutDegree 22560 340
+countOutDegree 6783 321
+countOutDegree 17571 344
+countOutDegree 18915 315
+countOutDegree 14025 325
+countOutDegree 4257 321
+countOutDegree 24114 326
+countOutDegree 16545 321
+countOutDegree 12324 321
+countOutDegree 873 314
+countOutDegree 18870 322
+countOutDegree 28491 314
+countOutDegree 21246 310
+countOutDegree 14889 309
+countOutDegree 597 330
+countOutDegree 5850 316
+countOutDegree 18201 312
+countOutDegree 12033 311
+countOutDegree 13152 329
+countOutDegree 4773 317
+countOutDegree 15867 307
+countOutDegree 23583 313
+countOutDegree 6591 318
+countOutDegree 26190 309
+countOutDegree 25800 309
+countOutDegree 8460 308
+countOutDegree 28767 317
+countOutDegree 24648 312
+countOutDegree 4905 320
+countOutDegree 5922 311
+countOutDegree 9921 322
+countOutDegree 26292 311
+countOutDegree 27732 307
+countOutDegree 29772 309
+countOutDegree 18369 319
+countOutDegree 6462 312
+countOutDegree 12798 305
+countOutDegree 11037 306
+countOutDegree 9849 327
+countOutDegree 22953 310
+countOutDegree 25734 310
+countOutDegree 24294 307
+countOutDegree 21300 311
+countOutDegree 11994 319
+countOutDegree 22176 310
+countOutDegree 972 316
+countOutDegree 27483 305
+countOutDegree 22938 322
+countOutDegree 10791 306
+countOutDegree 27996 312
+countOutDegree 15135 311
+countOutDegree 24144 304
+countOutDegree 16728 305
+countOutDegree 10551 311
+countOutDegree 8754 305
+countOutDegree 15873 312
+countOutDegree 3837 305
+countOutDegree 22374 311
+countOutDegree 11610 313
+countOutDegree 27741 317
+countOutDegree 1119 315
+countOutDegree 22416 296
+countOutDegree 19602 306
+countOutDegree 2760 318
+countOutDegree 24609 308
+countOutDegree 3504 306
+countOutDegree 26550 316
+countOutDegree 3105 311
+countOutDegree 7371 300
+countOutDegree 18969 311
+countOutDegree 17478 303
+countOutDegree 5823 321
+countOutDegree 57 310
+countOutDegree 17346 308
+countOutDegree 6900 301
+countOutDegree 13683 307
+countOutDegree 6642 323
+countOutDegree 3498 310
+countOutDegree 6351 303
+countOutDegree 16752 305
+countOutDegree 1035 308
+countOutDegree 24417 312
+countOutDegree 20853 303
+countOutDegree 20877 313
+countOutDegree 22221 306
+countOutDegree 4770 305
+countOutDegree 26907 308
+countOutDegree 27186 310
+countOutDegree 25107 302
+countOutDegree 4188 305
+countOutDegree 19716 310
+countOutDegree 22626 307
+
+insert Node PortIn PortOut Time
+insert 52710 52710_in 52710_out 1214
+insert 37740 37740_in 37740_out 22
+insert 34566 34566_in 34566_out 20
+insert 45003 45003_in 45003_out 18
+insert 30894 30894_in 30894_out 19
+insert 45615 45615_in 45615_out 16
+insert 55122 55122_in 55122_out 21
+insert 42453 42453_in 42453_out 16
+insert 52752 52752_in 52752_out 18
+insert 50214 50214_in 50214_out 14
+insert 46086 46086_in 46086_out 16
+insert 35865 35865_in 35865_out 11
+insert 47976 47976_in 47976_out 11
+insert 31926 31926_in 31926_out 12
+insert 38073 38073_in 38073_out 13
+insert 38154 38154_in 38154_out 11
+insert 56778 56778_in 56778_out 11
+insert 48612 48612_in 48612_out 11
+insert 52233 52233_in 52233_out 13
+insert 50502 50502_in 50502_out 10
+insert 45657 45657_in 45657_out 12
+insert 45000 45000_in 45000_out 10
+insert 53646 53646_in 53646_out 10
+insert 50433 50433_in 50433_out 9
+insert 59229 59229_in 59229_out 9
+insert 33465 33465_in 33465_out 12
+insert 44607 44607_in 44607_out 12
+insert 34797 34797_in 34797_out 12
+insert 59574 59574_in 59574_out 10
+insert 33012 33012_in 33012_out 11
+insert 46884 46884_in 46884_out 9
+insert 56301 56301_in 56301_out 9
+insert 44913 44913_in 44913_out 9
+insert 30801 30801_in 30801_out 16
+insert 54822 54822_in 54822_out 10
+insert 34527 34527_in 34527_out 12
+insert 50313 50313_in 50313_out 8
+insert 50931 50931_in 50931_out 9
+insert 49050 49050_in 49050_out 11
+insert 38967 38967_in 38967_out 9
+insert 32325 32325_in 32325_out 9
+insert 47985 47985_in 47985_out 10
+insert 57363 57363_in 57363_out 9
+insert 47715 47715_in 47715_out 10
+insert 31539 31539_in 31539_out 9
+insert 30624 30624_in 30624_out 9
+insert 44169 44169_in 44169_out 10
+insert 33732 33732_in 33732_out 9
+insert 35910 35910_in 35910_out 8
+insert 53070 53070_in 53070_out 8
+insert 43773 43773_in 43773_out 14
+insert 46176 46176_in 46176_out 9
+insert 36906 36906_in 36906_out 8
+insert 38883 38883_in 38883_out 12
+insert 53157 53157_in 53157_out 7
+insert 37878 37878_in 37878_out 9
+insert 48057 48057_in 48057_out 7
+insert 53289 53289_in 53289_out 7
+insert 57471 57471_in 57471_out 8
+insert 53625 53625_in 53625_out 7
+insert 36933 36933_in 36933_out 6
+insert 37296 37296_in 37296_out 7
+insert 34656 34656_in 34656_out 7
+insert 35550 35550_in 35550_out 7
+insert 32058 32058_in 32058_out 8
+insert 36291 36291_in 36291_out 7
+insert 39285 39285_in 39285_out 7
+insert 50439 50439_in 50439_out 6
+insert 33615 33615_in 33615_out 7
+insert 34344 34344_in 34344_out 8
+insert 47415 47415_in 47415_out 8
+insert 45645 45645_in 45645_out 6
+insert 52698 52698_in 52698_out 7
+insert 46809 46809_in 46809_out 6
+insert 58947 58947_in 58947_out 6
+insert 56265 56265_in 56265_out 6
+insert 43848 43848_in 43848_out 8
+insert 34350 34350_in 34350_out 9
+insert 45288 45288_in 45288_out 9
+insert 37722 37722_in 37722_out 8
+insert 47646 47646_in 47646_out 9
+insert 43560 43560_in 43560_out 6
+insert 46926 46926_in 46926_out 7
+insert 42129 42129_in 42129_out 8
+insert 40689 40689_in 40689_out 7
+insert 42837 42837_in 42837_out 6
+insert 34770 34770_in 34770_out 6
+insert 55128 55128_in 55128_out 6
+insert 44115 44115_in 44115_out 7
+insert 37020 37020_in 37020_out 5
+insert 38694 38694_in 38694_out 18
+insert 44535 44535_in 44535_out 9
+insert 30591 30591_in 30591_out 9
+insert 31155 31155_in 31155_out 9
+insert 42585 42585_in 42585_out 9
+insert 51015 51015_in 51015_out 6
+insert 43341 43341_in 43341_out 7
+insert 54555 54555_in 54555_out 6
+insert 51087 51087_in 51087_out 6
+insert 58668 58668_in 58668_out 7
+insert 54252 54252_in 54252_out 6
+countNeighbors Node Time
+countNeighbors 21090 1170
+countNeighbors 13110 63
+countNeighbors 26103 46
+countNeighbors 17961 47
+countNeighbors 2364 38
+countNeighbors 2439 35
+countNeighbors 25989 33
+countNeighbors 26322 31
+countNeighbors 18624 28
+countNeighbors 20253 34
+countNeighbors 12546 27
+countNeighbors 25314 27
+countNeighbors 17040 28
+countNeighbors 5892 31
+countNeighbors 21804 25
+countNeighbors 18156 32
+countNeighbors 11475 26
+countNeighbors 25020 26
+countNeighbors 5967 28
+countNeighbors 4644 3074
+countNeighbors 28212 24
+countNeighbors 16704 18
+countNeighbors 14994 21
+countNeighbors 1401 18
+countNeighbors 24009 18
+countNeighbors 4902 18
+countNeighbors 1143 18
+countNeighbors 1182 21
+countNeighbors 16566 25
+countNeighbors 12213 19
+countNeighbors 6732 20
+countNeighbors 5877 19
+countNeighbors 21369 21
+countNeighbors 29313 18
+countNeighbors 25680 17
+countNeighbors 25548 19
+countNeighbors 15567 17
+countNeighbors 4191 15
+countNeighbors 22752 21
+countNeighbors 17220 19
+countNeighbors 17253 17
+countNeighbors 27081 18
+countNeighbors 9102 18
+countNeighbors 5142 14
+countNeighbors 6771 15
+countNeighbors 16371 14
+countNeighbors 22188 21
+countNeighbors 8481 18
+countNeighbors 28926 14
+countNeighbors 28413 14
+countNeighbors 22488 13
+countNeighbors 21792 17
+countNeighbors 3201 14
+countNeighbors 13476 14
+countNeighbors 18723 13
+countNeighbors 20286 14
+countNeighbors 13014 13
+countNeighbors 9492 14
+countNeighbors 20820 13
+countNeighbors 8604 14
+countNeighbors 28452 13
+countNeighbors 777 15
+countNeighbors 6456 16
+countNeighbors 375 16
+countNeighbors 3816 14
+countNeighbors 1896 13
+countNeighbors 15810 13
+countNeighbors 20598 13
+countNeighbors 1617 13
+countNeighbors 19158 17
+countNeighbors 15768 13
+countNeighbors 24069 17
+countNeighbors 5202 13
+countNeighbors 9882 11
+countNeighbors 26799 11
+countNeighbors 7245 13
+countNeighbors 20067 20
+countNeighbors 15426 21
+countNeighbors 10569 19
+countNeighbors 4077 248
+countNeighbors 3276 17
+countNeighbors 21870 14
+countNeighbors 5172 14
+countNeighbors 18093 15
+countNeighbors 18504 12
+countNeighbors 24609 14
+countNeighbors 10203 13
+countNeighbors 22008 11
+countNeighbors 11787 11
+countNeighbors 26430 11
+countNeighbors 20427 13
+countNeighbors 1410 11
+countNeighbors 26610 10
+countNeighbors 3591 10
+countNeighbors 11745 10
+countNeighbors 3810 9
+countNeighbors 6525 10
+countNeighbors 7134 11
+countNeighbors 4938 11
+countNeighbors 23403 10
+countNeighbors 2082 10
+
+
+computeAPSP Time
+computeAPSP 1004
+computeAPSP 14
+computeAPSP 10
+computeAPSP 9
+computeAPSP 11
+computeAPSP 9
+computeAPSP 11
+computeAPSP 10
+computeAPSP 10
+computeAPSP 9
+computeAPSP 7
+computeAPSP 7
+computeAPSP 7
+computeAPSP 8
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 7
+computeAPSP 6
+computeAPSP 6
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 6
+computeAPSP 5
+computeAPSP 5
+computeAPSP 6
+computeAPSP 5
+computeAPSP 5
+computeAPSP 7
+computeAPSP 5
+computeAPSP 7
+computeAPSP 5
+computeAPSP 6
+computeAPSP 4
+computeAPSP 6
+computeAPSP 6
+computeAPSP 6
+computeAPSP 5
+computeAPSP 4
+computeAPSP 7
+computeAPSP 6
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 6
+computeAPSP 4
+computeAPSP 6
+computeAPSP 6
+computeAPSP 4
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 4
+computeAPSP 5
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 6
+computeAPSP 7
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 6
+computeAPSP 4
+computeAPSP 5
+computeAPSP 4
+computeAPSP 4
+computeAPSP 4
+computeAPSP 5
+computeAPSP 5
+computeAPSP 5
+doesRouteExist Source Destination Time
+doesRouteExist 7446 2073 4956
+doesRouteExist 23169 5031 165
+doesRouteExist 28905 27762 81
+doesRouteExist 13317 9000 80
+doesRouteExist 12090 6825 63
+doesRouteExist 22467 24294 441
+doesRouteExist 22221 22581 63
+doesRouteExist 7128 21087 52
+doesRouteExist 15126 27900 51
+doesRouteExist 16209 17172 51
+doesRouteExist 29883 14691 107
+doesRouteExist 14160 16695 49
+doesRouteExist 29598 25434 60
+doesRouteExist 14418 4419 51
+doesRouteExist 666 21567 57
+doesRouteExist 26808 22971 59
+doesRouteExist 4845 8076 71
+doesRouteExist 12 5571 503
+doesRouteExist 15837 378 45
+doesRouteExist 6609 8835 49
+doesRouteExist 6933 10401 52
+doesRouteExist 5274 13059 46
+doesRouteExist 1995 9447 43
+doesRouteExist 25179 10860 40
+doesRouteExist 7344 22383 58
+doesRouteExist 15774 25614 44
+doesRouteExist 9573 6876 44
+doesRouteExist 9414 7650 46
+doesRouteExist 7437 16653 44
+doesRouteExist 3516 5532 49
+doesRouteExist 25098 17607 55
+doesRouteExist 18117 438 40
+doesRouteExist 5619 23079 44
+doesRouteExist 28278 23982 42
+doesRouteExist 18609 15633 41
+doesRouteExist 18003 6831 46
+doesRouteExist 10911 11565 44
+doesRouteExist 24984 14361 43
+doesRouteExist 12924 6741 61
+doesRouteExist 19812 22596 48
+doesRouteExist 17364 15327 48
+doesRouteExist 2982 23670 40
+doesRouteExist 17040 23802 40
+doesRouteExist 27186 5622 41
+doesRouteExist 7362 19551 40
+doesRouteExist 14859 7404 52
+doesRouteExist 2247 10650 41
+doesRouteExist 18891 2307 42
+doesRouteExist 1209 11103 48
+doesRouteExist 26223 13524 41
+doesRouteExist 7314 9336 42
+doesRouteExist 5760 16497 44
+doesRouteExist 11505 16209 50
+doesRouteExist 5115 21852 51
+doesRouteExist 26130 10917 40
+doesRouteExist 15927 18471 42
+doesRouteExist 25350 2667 43
+doesRouteExist 18639 24606 40
+doesRouteExist 22332 11781 38
+doesRouteExist 16467 7224 38
+doesRouteExist 1545 18954 52
+doesRouteExist 2919 24996 40
+doesRouteExist 22476 12030 46
+doesRouteExist 19287 3807 39
+doesRouteExist 15984 8877 39
+doesRouteExist 16125 14382 38
+doesRouteExist 2205 12372 40
+doesRouteExist 3684 24849 43
+doesRouteExist 25668 17895 56
+doesRouteExist 17217 1533 41
+doesRouteExist 2277 26253 38
+doesRouteExist 2433 2997 39
+doesRouteExist 17367 933 400
+doesRouteExist 10812 25980 39
+doesRouteExist 10806 19083 37
+doesRouteExist 19608 29952 41
+doesRouteExist 5358 6888 43
+doesRouteExist 4401 2283 39
+doesRouteExist 8766 24342 40
+doesRouteExist 8301 6375 52
+doesRouteExist 26556 24537 40
+doesRouteExist 9561 28968 38
+doesRouteExist 20754 12777 39
+doesRouteExist 15876 21399 37
+doesRouteExist 21684 9654 37
+doesRouteExist 1605 1200 44
+doesRouteExist 29469 5328 40
+doesRouteExist 774 22830 39
+doesRouteExist 21006 28626 52
+doesRouteExist 21984 17817 38
+doesRouteExist 14334 2874 39
+doesRouteExist 11187 22086 50
+doesRouteExist 11511 9021 40
+doesRouteExist 4689 20892 37
+doesRouteExist 2370 14808 37
+doesRouteExist 14922 21582 38
+doesRouteExist 12420 18351 53
+doesRouteExist 4176 4059 39
+doesRouteExist 14046 2556 37
+doesRouteExist 11052 19560 40
+doesRouteExist 27117 23445 37
+
+computeSSSP Source Time
+computeSSSP 9351 4186
+computeSSSP 12912 16
+computeSSSP 29688 15
+computeSSSP 29628 14
+computeSSSP 13470 15
+computeSSSP 23094 14
+computeSSSP 19581 12
+computeSSSP 22656 16
+computeSSSP 336 10
+computeSSSP 11247 11
+computeSSSP 26349 15
+computeSSSP 4995 12
+computeSSSP 1773 12
+computeSSSP 22629 9
+computeSSSP 3078 9
+computeSSSP 16677 10
+computeSSSP 24531 9
+computeSSSP 22356 9
+computeSSSP 21558 9
+computeSSSP 19389 10
+computeSSSP 4107 10
+computeSSSP 16386 11
+computeSSSP 20535 11
+computeSSSP 20871 11
+computeSSSP 17103 10
+computeSSSP 7101 9
+computeSSSP 20397 9
+computeSSSP 16371 9
+computeSSSP 3831 9
+computeSSSP 27009 10
+computeSSSP 19335 9
+computeSSSP 19644 9
+computeSSSP 13644 8
+computeSSSP 16635 9
+computeSSSP 13602 9
+computeSSSP 7419 8
+computeSSSP 27786 8
+computeSSSP 456 7
+computeSSSP 6363 8
+computeSSSP 16812 7
+computeSSSP 14289 8
+computeSSSP 558 8
+computeSSSP 1836 8
+computeSSSP 15240 8
+computeSSSP 7452 8
+computeSSSP 261 8
+computeSSSP 19854 7
+computeSSSP 2247 10
+computeSSSP 1653 9
+computeSSSP 16077 8
+computeSSSP 28080 7
+computeSSSP 20937 8
+computeSSSP 24198 7
+computeSSSP 9273 8
+computeSSSP 12336 8
+computeSSSP 8538 9
+computeSSSP 5208 11
+computeSSSP 18744 10
+computeSSSP 1020 8
+computeSSSP 21894 8
+computeSSSP 24423 9
+computeSSSP 29436 7
+computeSSSP 16059 10
+computeSSSP 23973 9
+computeSSSP 21855 8
+computeSSSP 11709 7
+computeSSSP 5946 8
+computeSSSP 19119 7
+computeSSSP 18360 6
+computeSSSP 4041 8
+computeSSSP 11382 7
+computeSSSP 11595 8
+computeSSSP 19299 8
+computeSSSP 23412 7
+computeSSSP 1272 7
+computeSSSP 1530 7
+computeSSSP 28923 7
+computeSSSP 12459 7
+computeSSSP 10914 8
+computeSSSP 9420 7
+computeSSSP 5568 7
+computeSSSP 3624 6
+computeSSSP 24675 7
+computeSSSP 7767 192
+computeSSSP 24639 8
+computeSSSP 2295 9
+computeSSSP 13350 9
+computeSSSP 7854 8
+computeSSSP 28920 7
+computeSSSP 14385 7
+computeSSSP 9753 7
+computeSSSP 24579 6
+computeSSSP 22842 6
+computeSSSP 5832 6
+computeSSSP 26838 6
+computeSSSP 12798 6
+computeSSSP 13479 7
+computeSSSP 10023 8
+computeSSSP 13719 7
+computeSSSP 13815 8
+computeSSSP 22977 11
+
+computeKSSSP Source Destination Time
+computeKSSSP 23163 16938 1380
+computeKSSSP 19554 19959 118
+computeKSSSP 9813 3708 137
+computeKSSSP 699 8622 71
+computeKSSSP 6228 26595 52
+computeKSSSP 20604 27900 62
+computeKSSSP 12852 5718 3375
+computeKSSSP 24705 8703 46
+computeKSSSP 28650 29016 51
+computeKSSSP 14628 24552 39
+computeKSSSP 12192 19464 47
+computeKSSSP 10464 19638 28
+computeKSSSP 20559 17751 20
+computeKSSSP 2550 27555 26
+computeKSSSP 21759 22248 23
+computeKSSSP 786 4038 19
+computeKSSSP 18288 8826 22
+computeKSSSP 29952 6630 218
+computeKSSSP 26298 10908 31
+computeKSSSP 18537 15819 41
+computeKSSSP 22269 19182 20
+computeKSSSP 20154 26883 26
+computeKSSSP 17436 29781 24
+computeKSSSP 1779 4902 21
+computeKSSSP 23394 2295 26
+computeKSSSP 11496 16449 30
+computeKSSSP 2526 837 21
+computeKSSSP 22743 1848 20
+computeKSSSP 3318 16083 27
+computeKSSSP 4281 7275 22
+computeKSSSP 21960 7056 21
+computeKSSSP 5481 24363 45
+computeKSSSP 21714 9969 31
+computeKSSSP 1788 10194 30
+computeKSSSP 660 3906 18
+computeKSSSP 10035 8727 35
+computeKSSSP 5349 5637 21
+computeKSSSP 1650 27054 22
+computeKSSSP 12735 18426 24
+computeKSSSP 15447 29655 40
+computeKSSSP 10401 16296 35
+computeKSSSP 14823 16344 42
+computeKSSSP 3942 9939 35
+computeKSSSP 11316 20949 26
+computeKSSSP 22347 10002 28
+computeKSSSP 22953 20769 22
+computeKSSSP 28368 20901 30
+computeKSSSP 16686 27762 23
+computeKSSSP 8451 6183 24
+computeKSSSP 23013 4776 22
+computeKSSSP 18558 8988 20
+computeKSSSP 2280 19608 15
+computeKSSSP 20169 29013 28
+computeKSSSP 8655 12780 34
+computeKSSSP 9123 28110 32
+computeKSSSP 3930 21120 38
+computeKSSSP 15708 24573 31
+computeKSSSP 16458 22647 17
+computeKSSSP 9945 20649 24
+computeKSSSP 12738 438 31
+computeKSSSP 22959 20865 24
+computeKSSSP 12474 23706 27
+computeKSSSP 6288 6915 22
+computeKSSSP 8859 1167 24
+computeKSSSP 1407 8337 18
+computeKSSSP 22113 29337 27
+computeKSSSP 4752 22257 21
+computeKSSSP 18390 24609 19
+computeKSSSP 18381 9057 18
+computeKSSSP 11499 8604 30
+computeKSSSP 19755 6666 31
+computeKSSSP 16236 15468 41
+computeKSSSP 16722 9054 18
+computeKSSSP 4029 18021 12
+computeKSSSP 11682 19221 25
+computeKSSSP 3 7707 15
+computeKSSSP 13356 4506 25
+computeKSSSP 20439 8994 20
+computeKSSSP 2862 26403 19
+computeKSSSP 28611 8922 27
+computeKSSSP 16206 4650 32
+computeKSSSP 22242 13413 27
+computeKSSSP 23262 9045 24
+computeKSSSP 9084 24501 23
+computeKSSSP 25515 13638 40
+computeKSSSP 16692 5475 19
+computeKSSSP 6144 14781 29
+computeKSSSP 22122 12588 27
+computeKSSSP 7842 6006 24
+computeKSSSP 26796 21417 27
+computeKSSSP 29244 22440 24
+computeKSSSP 27567 25920 37
+computeKSSSP 28428 6000 32
+computeKSSSP 9165 168 22
+computeKSSSP 4266 705 15
+computeKSSSP 27795 28305 35
+computeKSSSP 21705 22260 17
+computeKSSSP 18459 8637 20
+computeKSSSP 14781 5574 25
+computeKSSSP 18261 21693 14
+computeKSSSP 18234 24897 28
+
+
+
+
+
+insert Node PortIn PortOut Time
+insert 42378 42378_in 42378_out 2236
+insert 32616 32616_in 32616_out 40
+insert 41607 41607_in 41607_out 27
+insert 30114 30114_in 30114_out 22
+insert 39435 39435_in 39435_out 23
+insert 34923 34923_in 34923_out 22
+insert 54606 54606_in 54606_out 23
+insert 58338 58338_in 58338_out 21
+insert 51585 51585_in 51585_out 18
+insert 36618 36618_in 36618_out 18
+insert 40410 40410_in 40410_out 22
+insert 36027 36027_in 36027_out 13
+insert 59565 59565_in 59565_out 13
+insert 43311 43311_in 43311_out 18
+insert 54036 54036_in 54036_out 12
+insert 53295 53295_in 53295_out 13
+insert 51933 51933_in 51933_out 14
+insert 54657 54657_in 54657_out 17
+insert 43665 43665_in 43665_out 30
+insert 52638 52638_in 52638_out 18
+insert 38928 38928_in 38928_out 19
+insert 36618 36618_in 36618_out 18
+insert 39081 39081_in 39081_out 13
+insert 49860 49860_in 49860_out 20
+insert 39294 39294_in 39294_out 20
+insert 57060 57060_in 57060_out 19
+insert 59715 59715_in 59715_out 10
+insert 50490 50490_in 50490_out 13
+insert 32895 32895_in 32895_out 10
+insert 52725 52725_in 52725_out 20
+insert 59841 59841_in 59841_out 11
+insert 58023 58023_in 58023_out 12
+insert 50397 50397_in 50397_out 12
+insert 50616 50616_in 50616_out 11
+insert 54471 54471_in 54471_out 15
+insert 32274 32274_in 32274_out 21
+insert 58302 58302_in 58302_out 34
+insert 46164 46164_in 46164_out 15
+insert 33315 33315_in 33315_out 23
+insert 57471 57471_in 57471_out 22
+insert 37065 37065_in 37065_out 27
+insert 54957 54957_in 54957_out 16
+insert 39012 39012_in 39012_out 16
+insert 41649 41649_in 41649_out 14
+insert 40788 40788_in 40788_out 15
+insert 31068 31068_in 31068_out 14
+insert 56943 56943_in 56943_out 14
+insert 41313 41313_in 41313_out 12
+insert 54612 54612_in 54612_out 10
+insert 53709 53709_in 53709_out 24
+insert 39510 39510_in 39510_out 17
+insert 32307 32307_in 32307_out 10
+insert 47796 47796_in 47796_out 10
+insert 52941 52941_in 52941_out 20
+insert 30369 30369_in 30369_out 11
+insert 46269 46269_in 46269_out 4179
+insert 37110 37110_in 37110_out 11
+insert 31185 31185_in 31185_out 13
+insert 38685 38685_in 38685_out 9
+insert 38802 38802_in 38802_out 8
+insert 54894 54894_in 54894_out 9
+insert 48648 48648_in 48648_out 7
+insert 56463 56463_in 56463_out 9
+insert 49671 49671_in 49671_out 7
+insert 55728 55728_in 55728_out 11
+insert 37836 37836_in 37836_out 7
+insert 40977 40977_in 40977_out 7
+insert 58131 58131_in 58131_out 7
+insert 51585 51585_in 51585_out 8
+insert 46998 46998_in 46998_out 6
+insert 42222 42222_in 42222_out 9
+insert 49371 49371_in 49371_out 8
+insert 55977 55977_in 55977_out 7
+insert 54294 54294_in 54294_out 6
+insert 56865 56865_in 56865_out 6
+insert 31935 31935_in 31935_out 7
+insert 52665 52665_in 52665_out 9
+insert 44340 44340_in 44340_out 10
+insert 52374 52374_in 52374_out 7
+insert 40281 40281_in 40281_out 12
+insert 48894 48894_in 48894_out 8
+insert 34155 34155_in 34155_out 6
+insert 52152 52152_in 52152_out 7
+insert 44007 44007_in 44007_out 9
+insert 44625 44625_in 44625_out 6
+insert 35805 35805_in 35805_out 6
+insert 40200 40200_in 40200_out 6
+insert 52134 52134_in 52134_out 7
+insert 32268 32268_in 32268_out 8
+insert 42933 42933_in 42933_out 6
+insert 48093 48093_in 48093_out 9
+insert 35421 35421_in 35421_out 10
+insert 46065 46065_in 46065_out 8
+insert 41556 41556_in 41556_out 13
+insert 50034 50034_in 50034_out 10
+insert 43998 43998_in 43998_out 7
+insert 31932 31932_in 31932_out 6
+insert 56742 56742_in 56742_out 6
+insert 49953 49953_in 49953_out 8
+insert 55953 55953_in 55953_out 6
+insert 42240 42240_in 42240_out 7
+computeMST Source Time
+computeMST 24660 4467
+computeMST 25176 13
+computeMST 84 14
+computeMST 18453 14
+computeMST 29988 16
+computeMST 15540 13
+computeMST 20892 12
+computeMST 22035 11
+computeMST 4983 10
+computeMST 24849 10
+computeMST 15912 10
+computeMST 23520 10
+computeMST 28068 8
+computeMST 16860 8
+computeMST 10545 8
+computeMST 1053 9
+computeMST 20448 8
+computeMST 1572 9
+computeMST 19032 8
+computeMST 12768 8
+computeMST 22350 8
+computeMST 20463 8
+computeMST 16953 7
+computeMST 2073 8
+computeMST 23910 8
+computeMST 2142 8
+computeMST 807 9
+computeMST 17274 8
+computeMST 14058 8
+computeMST 4461 9
+computeMST 18330 8
+computeMST 1977 8
+computeMST 6999 8
+computeMST 25545 11
+computeMST 14001 9
+computeMST 23085 7
+computeMST 16239 7
+computeMST 15786 7
+computeMST 20349 7
+computeMST 6117 7
+computeMST 2862 7
+computeMST 19599 7
+computeMST 7545 7
+computeMST 1566 7
+computeMST 6888 8
+computeMST 22905 9
+computeMST 12597 7
+computeMST 17196 7
+computeMST 8655 7
+computeMST 14832 7
+computeMST 28776 6
+computeMST 24642 6
+computeMST 13878 6
+computeMST 16305 7
+computeMST 5214 12
+computeMST 12915 11
+computeMST 7899 7
+computeMST 7395 8
+computeMST 1047 8
+computeMST 798 8
+computeMST 17943 7
+computeMST 4287 8
+computeMST 9966 8
+computeMST 20220 11
+computeMST 18618 6
+computeMST 1845 10
+computeMST 26271 7
+computeMST 6273 11
+computeMST 19596 6
+computeMST 6240 6
+computeMST 10014 7
+computeMST 2271 6
+computeMST 13635 6
+computeMST 4995 7
+computeMST 11091 6
+computeMST 19395 6
+computeMST 23814 6
+computeMST 1227 6
+computeMST 29265 6
+computeMST 22779 7
+computeMST 18852 8
+computeMST 27498 7
+computeMST 21708 5
+computeMST 13203 6
+computeMST 13248 6
+computeMST 22272 6
+computeMST 25923 6
+computeMST 13269 6
+computeMST 17259 7
+computeMST 28929 7
+computeMST 2067 6
+computeMST 11145 6
+computeMST 26862 5
+computeMST 10137 6
+computeMST 20538 6
+computeMST 28482 5
+computeMST 10950 6
+computeMST 10005 6
+computeMST 18561 5
+computeMST 10404 7
+computeMST 18843 8
+
+delete Node Time
+delete 16545 7489
+delete 14547 1510
+delete 684 1556
+delete 28908 1360
+delete 23670 1343
+delete 27195 1314
+delete 11823 1322
+delete 12318 1318
+delete 1224 1314
+delete 20949 1326
+delete 13269 1307
+delete 27441 1310
+delete 1914 1311
+delete 25845 1319
+delete 8205 1312
+delete 18618 1300
+delete 29613 1328
+delete 4263 1296
+delete 23229 1270
+delete 2316 1306
+delete 17190 1308
+delete 14988 1328
+delete 2253 1314
+delete 11973 1269
+delete 28479 1290
+delete 17253 1278
+delete 14319 1301
+delete 1572 1286
+delete 3219 1284
+delete 19410 1293
+delete 2640 1269
+delete 12153 1295
+delete 19854 1274
+delete 28167 1285
+delete 17442 1293
+delete 5673 1265
+delete 858 1296
+delete 18681 1272
+delete 26097 1282
+delete 1155 1294
+delete 14649 1269
+delete 18546 1285
+delete 2385 1269
+delete 8373 1283
+delete 20433 1265
+delete 12963 1333
+delete 12567 1293
+delete 25434 1291
+delete 18912 1267
+delete 20469 1256
+delete 22845 1299
+delete 3330 1249
+delete 4014 1264
+delete 19797 1248
+delete 2250 1281
+delete 5121 1255
+delete 28530 1276
+delete 15480 1249
+delete 11559 1279
+delete 22560 1252
+delete 4026 1326
+delete 8241 1273
+delete 15246 1268
+delete 1500 1302
+delete 13119 1250
+delete 15642 1267
+delete 13674 1252
+delete 4611 1292
+delete 8235 1242
+delete 9471 1302
+delete 1377 1247
+delete 11643 1270
+delete 20931 1255
+delete 7539 1273
+delete 6186 1269
+delete 23550 1274
+delete 12621 1257
+delete 20766 1242
+delete 17844 1270
+delete 20139 1255
+delete 24231 1274
+delete 29250 1270
+delete 29634 1267
+delete 28824 1243
+delete 23667 1318
+delete 5046 1242
+delete 23877 1268
+delete 15075 1271
+delete 15390 1269
+delete 7359 1270
+delete 8790 1238
+delete 20142 1245
+delete 7638 1238
+delete 2838 1253
+delete 354 1260
+delete 15840 1255
+delete 996 1245
+delete 21945 1238
+delete 23217 1244
+delete 28602 1252
+delete 24780 1245
+
+setEdgeWeight Node1 Link Cost Time
+setEdgeWeight 1293 1293_6600 1 421
+setEdgeWeight 13719 13719_18495 0 230
+setEdgeWeight 1443 1443_2043 4 232
+setEdgeWeight 21873 21873_16722 2 251
+setEdgeWeight 10038 10038_9867 0 333
+setEdgeWeight 17112 17112_20049 3 206
+setEdgeWeight 26859 26859_27984 1 203
+setEdgeWeight 28635 28635_13935 7 201
+setEdgeWeight 6225 6225_7350 3 198
+setEdgeWeight 16017 16017_0 0 234
+setEdgeWeight 26526 26526_25293 6 188
+setEdgeWeight 11079 11079_7836 8 198
+setEdgeWeight 24093 24093_0 8 195
+setEdgeWeight 10554 10554_10242 3 191
+setEdgeWeight 7038 7038_1926 6 193
+setEdgeWeight 10368 10368_28335 2 197
+setEdgeWeight 3390 3390_10080 0 190
+setEdgeWeight 17394 17394_19710 1 196
+setEdgeWeight 1575 1575_492 9 186
+setEdgeWeight 7887 7887_17799 1 245
+setEdgeWeight 8745 8745_22242 1 200
+setEdgeWeight 21180 21180_13686 8 206
+setEdgeWeight 12435 12435_2316 4 189
+setEdgeWeight 6495 6495_13152 2 210
+setEdgeWeight 9114 9114_4725 8 328
+setEdgeWeight 16401 16401_8661 3 209
+setEdgeWeight 2259 2259_5364 0 190
+setEdgeWeight 7347 7347_3897 4 187
+setEdgeWeight 13074 13074_17982 4 188
+setEdgeWeight 771 771_1230 9 187
+setEdgeWeight 6465 6465_25092 3 188
+setEdgeWeight 29037 29037_10959 3 189
+setEdgeWeight 18921 18921_10398 0 188
+setEdgeWeight 29673 29673_6582 1 206
+setEdgeWeight 5361 5361_9546 8 186
+setEdgeWeight 20034 20034_6969 8 188
+setEdgeWeight 18078 18078_4989 8 189
+setEdgeWeight 4464 4464_7755 9 189
+setEdgeWeight 2958 2958_2142 1 201
+setEdgeWeight 19737 19737_3480 3 194
+setEdgeWeight 28863 28863_16209 1 257
+setEdgeWeight 6990 6990_21930 7 194
+setEdgeWeight 7131 7131_10626 3 535
+setEdgeWeight 6 6_19398 5 327
+setEdgeWeight 19416 19416_24576 7 448
+setEdgeWeight 1122 1122_7911 7 237
+setEdgeWeight 24249 24249_21093 9 332
+setEdgeWeight 2982 2982_19629 9 225
+setEdgeWeight 20823 20823_14388 7 221
+setEdgeWeight 14115 14115_4572 3 214
+setEdgeWeight 1050 1050_15174 7 211
+setEdgeWeight 5205 5205_7311 0 219
+setEdgeWeight 6537 6537_4059 7 249
+setEdgeWeight 3735 3735_762 5 216
+setEdgeWeight 54 54_0 7 395
+setEdgeWeight 2280 2280_4539 7 230
+setEdgeWeight 28068 28068_7002 8 206
+setEdgeWeight 26772 26772_7170 9 186
+setEdgeWeight 3357 3357_5559 2 354
+setEdgeWeight 13668 13668_3864 6 186
+setEdgeWeight 27378 27378_18165 9 184
+setEdgeWeight 17604 17604_11196 4 190
+setEdgeWeight 1218 1218_9645 8 181
+setEdgeWeight 17748 17748_21231 6 310
+setEdgeWeight 16797 16797_18825 4 221
+setEdgeWeight 29973 29973_12702 2 205
+setEdgeWeight 14046 14046_10047 0 221
+setEdgeWeight 5175 5175_0 0 185
+setEdgeWeight 21906 21906_14898 4 210
+setEdgeWeight 25278 25278_28560 9 210
+setEdgeWeight 10047 10047_25485 1 218
+setEdgeWeight 18453 18453_22428 4 219
+setEdgeWeight 11529 11529_20568 6 187
+setEdgeWeight 13584 13584_20241 0 182
+setEdgeWeight 4572 4572_9705 9 195
+setEdgeWeight 13494 13494_13014 3 203
+setEdgeWeight 12297 12297_10767 9 189
+setEdgeWeight 25149 25149_27024 7 235
+setEdgeWeight 5343 5343_9711 9 192
+setEdgeWeight 3321 3321_7221 8 183
+setEdgeWeight 20913 20913_12069 7 185
+setEdgeWeight 3582 3582_10866 1 183
+setEdgeWeight 19125 19125_15078 9 201
+setEdgeWeight 13677 13677_3957 7 188
+setEdgeWeight 16419 16419_6678 7 192
+setEdgeWeight 1743 1743_9636 8 233
+setEdgeWeight 17121 17121_4788 5 182
+setEdgeWeight 18285 18285_11289 5 196
+setEdgeWeight 1038 1038_1779 5 185
+setEdgeWeight 14178 14178_3249 4 185
+setEdgeWeight 12720 12720_19299 4 192
+setEdgeWeight 23685 23685_18447 3 194
+setEdgeWeight 27561 27561_29625 9 328
+setEdgeWeight 12345 12345_8226 0 197
+setEdgeWeight 24483 24483_29805 9 181
+setEdgeWeight 7152 7152_18906 0 184
+setEdgeWeight 27939 27939_29070 0 187
+setEdgeWeight 13071 13071_10038 0 182
+setEdgeWeight 1854 1854_5850 0 237
+setEdgeWeight 9492 9492_3198 2 180
+setEdgeWeight 720 720_2493 2 180
+getEdgeWeight Node1 Link Time
+getEdgeWeight 17988 17988_23133 32
+getEdgeWeight 17874 17874_10401 17
+getEdgeWeight 28653 28653_198 15
+getEdgeWeight 6219 6219_6573 14
+getEdgeWeight 3573 3573_5442 13
+getEdgeWeight 12777 12777_20199 13
+getEdgeWeight 25698 25698_8517 14
+getEdgeWeight 16209 16209_4494 12
+getEdgeWeight 21264 21264_12396 14
+getEdgeWeight 22560 22560_22590 15
+getEdgeWeight 25551 25551_10677 12
+getEdgeWeight 27444 27444_25644 13
+getEdgeWeight 28476 28476_14979 13
+getEdgeWeight 20154 20154_12567 12
+getEdgeWeight 10023 10023_4452 13
+getEdgeWeight 4803 4803_5307 12
+getEdgeWeight 27255 27255_27906 13
+getEdgeWeight 26247 26247_24069 12
+getEdgeWeight 14583 14583_23241 12
+getEdgeWeight 26418 26418_29790 13
+getEdgeWeight 9537 9537_16113 12
+getEdgeWeight 10389 10389_0 14
+getEdgeWeight 15975 15975_11775 12
+getEdgeWeight 6981 6981_29235 12
+getEdgeWeight 28668 28668_3015 11
+getEdgeWeight 13017 13017_13776 12
+getEdgeWeight 4563 4563_5424 12
+getEdgeWeight 471 471_4764 12
+getEdgeWeight 26691 26691_10245 12
+getEdgeWeight 21396 21396_6378 11
+getEdgeWeight 8145 8145_25146 12
+getEdgeWeight 4029 4029_9408 12
+getEdgeWeight 16788 16788_15372 12
+getEdgeWeight 14058 14058_9309 12
+getEdgeWeight 15543 15543_5196 12
+getEdgeWeight 23238 23238_10110 13
+getEdgeWeight 576 576_25590 10
+getEdgeWeight 1992 1992_13560 16
+getEdgeWeight 12849 12849_9183 12
+getEdgeWeight 13425 13425_8154 11
+getEdgeWeight 1680 1680_1476 11
+getEdgeWeight 18930 18930_26784 10
+getEdgeWeight 29850 29850_29049 14
+getEdgeWeight 26259 26259_6825 11
+getEdgeWeight 12438 12438_4074 12
+getEdgeWeight 831 831_3957 10
+getEdgeWeight 18912 18912_24957 9
+getEdgeWeight 18771 18771_15402 10
+getEdgeWeight 29097 29097_10515 10
+getEdgeWeight 6606 6606_21102 10
+getEdgeWeight 2448 2448_4428 10
+getEdgeWeight 21645 21645_11121 11
+getEdgeWeight 8775 8775_23829 9
+getEdgeWeight 9726 9726_22965 10
+getEdgeWeight 18279 18279_23460 9
+getEdgeWeight 24138 24138_13926 9
+getEdgeWeight 21804 21804_21984 9
+getEdgeWeight 14745 14745_22626 10
+getEdgeWeight 14766 14766_13665 9
+getEdgeWeight 4326 4326_3558 9
+getEdgeWeight 23793 23793_29358 10
+getEdgeWeight 22884 22884_12195 13
+getEdgeWeight 21243 21243_27183 10
+getEdgeWeight 23187 23187_8568 10
+getEdgeWeight 20670 20670_19665 9
+getEdgeWeight 29259 29259_14163 10
+getEdgeWeight 12033 12033_12741 10
+getEdgeWeight 11205 11205_20733 10
+getEdgeWeight 17253 17253_2769 9
+getEdgeWeight 4659 4659_10122 9
+getEdgeWeight 13614 13614_22503 10
+getEdgeWeight 20223 20223_11250 9
+getEdgeWeight 22905 22905_14346 9
+getEdgeWeight 14853 14853_11868 9
+getEdgeWeight 15780 15780_6744 9
+getEdgeWeight 11274 11274_6660 9
+getEdgeWeight 345 345_5166 10
+getEdgeWeight 3357 3357_2043 29
+getEdgeWeight 26670 26670_16380 9
+getEdgeWeight 29094 29094_23997 9
+getEdgeWeight 19137 19137_9318 9
+getEdgeWeight 11259 11259_3384 10
+getEdgeWeight 8250 8250_5691 9
+getEdgeWeight 12357 12357_3867 8
+getEdgeWeight 26457 26457_16428 9
+getEdgeWeight 25545 25545_28107 12
+getEdgeWeight 19956 19956_19203 9
+getEdgeWeight 3315 3315_3072 9
+getEdgeWeight 27144 27144_26316 9
+getEdgeWeight 18642 18642_15177 10
+getEdgeWeight 22548 22548_2973 10
+getEdgeWeight 10860 10860_27825 12
+getEdgeWeight 29871 29871_8871 9
+getEdgeWeight 9411 9411_7221 10
+getEdgeWeight 16932 16932_0 9
+getEdgeWeight 15525 15525_28686 10
+getEdgeWeight 12744 12744_0 9
+getEdgeWeight 21540 21540_11547 9
+getEdgeWeight 21495 21495_20406 10
+getEdgeWeight 18960 18960_20130 9
+getEdgeWeight 8694 8694_14379 9
