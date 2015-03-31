@@ -24,9 +24,7 @@ import org.neo4j.graphdb.Transaction;
 
 
 public class Query {
-	//private static String DB_PATH = "/tmp/NmlTopologia10";
-		//private GraphDatabaseService db = new GraphDatabaseFactory().newEmbeddedDatabase( DB_PATH );
-		private static String FILE_PATH = "/tmp/Testando.txt";
+		private static String FILE_PATH = "/tmp/output.txt";
 		private static Integer numberQueries = 1;
 		private static Integer limit = 100; 
 		
@@ -36,13 +34,7 @@ public class Query {
 			
 			FileOutputStream  arq = new FileOutputStream(FILE_PATH,true);
 			
-			switch(queryNumber){
-				case 1: cypher = "";
-						
-				break;
-				case 2: cypher = "";
-						
-				break;
+			switch(queryNumber){	
 				case 3: cypher = "MATCH (n:Node)<-[:hasInboundPort]-(p:Port)<-[isSink]-(l:Link) WHERE n.name={nameNode} RETURN COUNT(l) AS CountOutDegree";
 						primitive = "countInDegree";
 						arq.write("\ncountInDegree Node Time\n".getBytes());
@@ -55,9 +47,7 @@ public class Query {
 						primitive = "countNeighbors";
 						arq.write("\ncountNeighbors Node Time\n".getBytes());
 				break;
-				case 6: //cypher = "MATCH p=(n:Node)-[:hasOutboundPort]->(p1:Port)-[:isSource]->(l1:Link)-[hasInboundPort*0..4]-()-[:isSink]->(p2:Port)"
-						//		+ "-[:hasInboundPort]->(m:Node) WHERE n.name={nameNode} AND m.name={nameNode1} RETURN COUNT(p) > 0 AS DoesRouteExist";
-						cypher = "MATCH p=shortestPath((n:Node)-[*]-(m:Node)) WHERE n.name = {nameNode} AND m.name={nameNode1} RETURN COUNT(p) >0 AS DoesRouteExist";
+				case 6:	cypher = "MATCH p=shortestPath((n:Node)-[*]-(m:Node)) WHERE n.name = {nameNode} AND m.name={nameNode1} RETURN COUNT(p) >0 AS DoesRouteExist";
 						primitive = "doesRouteExist";
 						arq.write("\ndoesRouteExist Source Destination Time\n".getBytes());
 				break;
@@ -81,19 +71,10 @@ public class Query {
 						primitive = "computeMST";
 						arq.write("\ncomputeMST Source Time\n".getBytes());
 				break;
-				case 12: cypher ="";
-						primitive = "isSubPath";
-						arq.write("\nisSubPath Path1 Path2 Time\n".getBytes());
-					
-				break;
 				default: cypher = "";			
 			}
 			
-			//FileOutputStream  arq = new FileOutputStream("/tmp/saida_topologia_10.txt",true); 
-			
-
-			
-			Random gerador = new Random();
+		s	Random gerador = new Random();
 			
 			long startTime=0;
 			Map<String, Object> params = new HashMap<String, Object>();
@@ -116,41 +97,24 @@ public class Query {
 				if(queryNumber == 6 || queryNumber ==9){
 					do{
 						node2 = gerador.nextInt(limit)*3;	
-					}while(node1 == node2);
-				
-				//randomNodes.put(node2, node2);
+					}while(node1 == node2);		
 				}
 				String link = node1 + "_" + node2;
-				//int cost = gerador.nextInt(limit);
-						
+									
 				params.put("nameNode", node1.toString());
 				params.put("nameNode1", node2.toString());
 				params.put("nameLink", link);
 				params.put("valueK", k);
-				
-				//params.put("valueCost", cost);
-				
+								
 				Transaction tx = db.beginTx();
 				ExecutionEngine ex = new ExecutionEngine(db);
 				
 				startTime = System.currentTimeMillis();
 				ExecutionResult result = ex.execute( cypher, params );
-				//ex.execute( cypher, params );
-				/*String itResult ="";
-				/*for(ResourceIterator<Map<String, Object>> ri=result.iterator();ri.hasNext();){
-					//arq.write(ri.toString().getBytes());
-					//System.out.println(ri.next().values().toString());
-					itResult = ri.next().values().toString();
-				}*/
+		
 				long endTime = System.currentTimeMillis()-startTime;
 				String texto="";
 				switch(queryNumber){
-					case 1: 
-						//texto = primitive + " " + node1 + " " + link + " " +  + " " + endTime + "\n";
-					break;
-					case 2:
-						//texto = primitive + " " + node1 + " " + link + " " + endTime + "\n";
-					break;
 					case 3: 
 						texto = primitive + " " + node1 + " " + endTime + "\n";
 					break;
@@ -180,15 +144,13 @@ public class Query {
 					break;
 				}
 
-				//System.out.println(result.dumpToString());
 				arq.write(texto.getBytes());
 				tx.success();
 			}
 			
 				
 			System.out.println("Consultas de "+primitive+" realizadas. Arquivo Gerado");
-			arq.close();	
-			//System.out.println(result);
+			arq.close();
 			
 		}
 		
@@ -207,12 +169,10 @@ public class Query {
 					long startTime = System.currentTimeMillis();
 					ExecutionResult result = ex.execute( cypher);
 					long t1 = System.currentTimeMillis()-startTime;
-			 	    //System.out.println(result.dumpToString());
 					text = "\ncomputeAPSP "+t1;
 					arq.write(text.getBytes());
-					//arq.write(result.dumpToString().getBytes());
-					//System.out.println(t1);
 			}
+
 			tx.success();
 			arq.close();
 		}
@@ -261,17 +221,14 @@ public class Query {
 					while(resultNeighbors.hasNext()){
 						Node neighbor = resultNeighbors.next();
 						neighbors.put(neighbor.getProperty("name").toString(), neighbor.getProperty("name").toString());
-						//System.out.println("Found Neighbor: "+neighbor.getProperty("name").toString());
 					}
 				}while(neighbors.size()<1);
 						
 				do{
-					//System.out.println("Searching the link");
 					node2 = gerador.nextInt(limit)*3;
-					//System.out.println("... "+node2);
 				}while(neighbors.get(node2.toString())==null);
 			
-				//System.out.println("Found Link: "+neighbors.get(node2.toString()));
+				
 				Integer cost = gerador.nextInt(10) ;
 				String link=node1.toString()+"_"+node2.toString();
 				params.put("nameLink", link);
@@ -319,34 +276,16 @@ public class Query {
 				
 				long startTime = System.currentTimeMillis(); 
 				
-				/*Node noCriar = db.createNode(DynamicLabel.label("Node"));			   
-				noCriar.setProperty("name", newNode.toString());
-				
-				Node port1 = db.createNode(DynamicLabel.label("Port"));
-				port1.setProperty("name", portInNewNode);
-				
-				Node port2 = db.createNode(DynamicLabel.label("Port"));
-				port2.setProperty("name", portOutNewNode);
-				*/
-				
-				params.put("nameNewNode", newNode.toString());
+					params.put("nameNewNode", newNode.toString());
 				params.put("portInNewNode", portInNewNode);
 				params.put("portOutNewNode", portOutNewNode);
 			
-				/*
-				Relationship rel = noCriar.createRelationshipTo(port1, DynamicRelationshipType.withName("hasInboundPort"));
-				rel = noCriar.createRelationshipTo(port2, DynamicRelationshipType.withName("hasOutboundPort"));
-				*/
 				String cypher = "CREATE (n1:Node{name:\""+newNode.toString()+"\"}) CREATE (n2:Port{name:\""+portInNewNode.toString()+"\"}) "
 						+ "CREATE (n3:Port{name:\""+portOutNewNode.toString()+"\"}) WITH n1, n2, n3 "
 						+ "CREATE (n1)<-[r:hasInboundPort]-(n2) CREATE (n1)-[r2:hasOutboundPort]->(n3) RETURN r,r2";
 				
 				ex = new ExecutionEngine( db );
 				ex.execute(cypher);
-				//ex.execute(cypher, params);
-				//cypher= "MATCH (a:Node), (b:Port), (b2:Port) WHERE a.name={nameNewNode} AND b.name={portInNewNode} AND b2.name={portOutNewNode}"
-				//	+ " CREATE (a)-[r:hasOutboundPort]->(b2)";
-				//ex.execute(cypher, params);
 				long endTime = System.currentTimeMillis() - startTime;
 				String text = "\ninsert "+newNode+" "+portInNewNode+" "+portOutNewNode+" "+endTime;
 				
