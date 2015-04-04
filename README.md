@@ -1,9 +1,9 @@
 # NML-Neo4j
 
-This experiment models data of an infrastructure network based on NML (Network Markup Language) and imports into Neo4j graph database.
-It was generated 4 differents sizes (10, 100, 1,000 and 10,000 nodes) by [BRITE] (http://www.cs.bu.edu/brite/ "Topology Generator"), this topology was insert in the Neo4j, using the model NML.
-Toward to evaluate the performance, some queries were created in Cypher Language to ask primitives of the topology.
-Each query was executed many times and its time was stored and analized.
+This experiment involves the modelling of data from the topology of an infrastructure network. The model is based on NML (Network Markup Language), and is imported into a Neo4j graph database.
+Four different topologies were generated, each with a different size, (10, 100, 1,000 and 10,000 nodes respectively), using BRITE. Then they were modelled in NML and inserted into the Neo4j database.
+In order to evaluate the database performance, some queries were created in Cypher Language to ask for primitives of the topologies. Each query was repeated several times and their execution time was stored and analyzed.
+
 
 ## Brief Description of The Files
 
