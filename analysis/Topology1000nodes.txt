@@ -1,13 +1,13 @@
-Primitiva	1º Valor	Média	Desvio Padrão	95 Percentil	1 Percentil
-countInDegree	1.740,00	46,64	69,40	391,22	24,00
-countOutDegree	1.467,00	37,34	47,99	224,08	17,00
-insert	1.005,00	9,14	3,94	25,10	5,00
-countNeighbors	1.233,00	22,15	11,14	59,14	10,99
-doesRouteExist	2.574,00	60,30	28,25	122,95	44,00
-computeSSSP	930,00	8,29	2,00	15,00	6,00
-computeKSSSP	1.071,00	16,54	12,22	63,02	8,99
-setEdgeWeight	144,00	16,66	5,50	39,03	13,00
-getEdgeWeight	29,00	8,61	2,55	17,02	6,00
-computeMST	937,00	7,41	1,90	13,02	5,00
-delete	1.815,00	51,92	42,89	203,29	36,00
-computeAPSP	928,00	6,24	2,14	16,01	4,00
+Primitive	1stvalue	Average	StandardDeviation	99Percentile	1Percentile	95Percentile	5Percentile
+countInDegree	3969,00	34,30	22,15	119,11	18,00	60,00	20,00
+countOutDegree	2938,00	17,34	17,88	76,39	10,00	34,00	11,00
+insert	1350,00	4,20	3,61	18,00	1,00	11,00	2,00
+countNeighbors	1304,00	5,54	4,29	24,01	2,00	11,00	3,00
+doesRouteExist	1385,00	7,81	6,94	37,00	4,00	14,00	4,00
+computeSSSP	1022,00	3,82	2,75	15,01	1,00	9,00	1,00
+computeKSSSP	1395,00	5,57	4,35	25,00	2,00	12,00	3,00
+setEdgeWeight	34,00	9,58	2,80	21,00	7,00	14,00	7,00
+getEdgeWeight	30,00	2,73	1,89	9,01	1,00	5,05	1,95
+computeMST	1140,00	3,30	2,32	14,00	1,00	8,00	1,00
+delete	1710,00	19,49	19,85	68,01	4,00	41,00	4,00
+computeAPSP	978,00	1,92	1,17	6,00	1,00	4,00	1,00
