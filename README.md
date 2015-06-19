@@ -14,3 +14,5 @@ In order to evaluate the database performance, some queries were created in Cyph
 /outputs - results files with the time of each query
 
 /analysis - files with the statitics data extracted from the outputs
+
+/RDBM Experiments - Java codes, outputs and analysis of the RDBM experiment
