@@ -15,4 +15,4 @@ In order to evaluate the database performance, some queries were created in Cyph
 
 /analysis - files with the statitics data extracted from the outputs
 
-/RDBM Experiments - Java codes, outputs and analysis of the RDBM experiment
+/RDBM Experiments - Java codes, outputs and analysis of the Relational Database Model experiment (in order to compare with the Graph database results)
