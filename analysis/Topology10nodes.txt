@@ -1,13 +1,13 @@
-Primitive	1stvalue	Average	StandardDeviation	99Percentile	1Percentile	95Percentile	5Percentile
-countInDegree	1750,00	11,32	8,37	51,00	4,00	25,05	5,00
-countOutDegree	1587,00	7,98	6,06	38,03	4,00	17,00	4,00
-insert	1268,00	4,41	4,14	22,01	1,00	11,00	2,00
-countNeighbors	1725,00	8,52	7,02	37,01	3,00	20,00	3,00
-doesRouteExist	1179,00	5,01	3,44	21,00	2,00	11,05	2,95
-computeSSSP	1101,00	4,19	3,39	19,01	1,00	11,00	2,00
-computeKSSSP	1251,00	5,14	4,42	24,02	2,00	13,00	2,00
-setEdgeWeight	60,00	3,97	1,98	11,00	2,00	7,00	2,00
-getEdgeWeight	32,00	3,35	1,81	10,00	1,00	6,00	2,00
-computeMST	1496,00	4,03	3,59	22,01	1,00	9,00	2,00
-delete	1204,00	36,78	13,28	62,96	24,24	58,80	25,20
-computeAPSP	1171,00	2,46	1,77	10,01	1,00	5,05	1,00
+Primitive	1st Value	Average	Standart Deviation	99 Percentile	1 Percentile	95 Percentile	5 Percentile
+countInDegree	2723,00	8,51	6,49	38,01	3,00	19,00	4,00
+countOutDegree	22,00	4,73	2,54	17,00	2,00	7,00	3,00
+insert	222,00	4,59	25,37	20,00	1,99	8,00	2,00
+countNeighbors	29,00	4,91	3,31	19,00	2,00	7,00	2,00
+computeAPSP	46,00	1,22	1,21	6,00	0,00	2,00	1,00
+computeMST	2,00	1,90	2,45	8,03	1,00	3,00	1,00
+computeSSSP	5,00	1,35	2,56	4,01	0,00	2,00	0,00
+computeKSSSP	77,00	1,70	0,82	4,00	1,00	3,00	1,00
+setEdgeWeight	108,00	8,44	5,02	27,02	4,00	16,00	5,00
+getEdgeWeight	3,00	1,71	0,86	4,00	1,00	3,00	1,00
+doesRouteExist	24,00	5,47	6,18	12,01	3,00	8,00	3,00
+delete	80,00	9,66	6,47	31,13	6,00	14,00	6,00
